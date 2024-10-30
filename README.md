@@ -1,9 +1,6 @@
 <!-- SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-only
 -->
 
-# Dev Branch
-Please note you are browsing a heavy work in progress branch. Many things will probably be broken and this readme will change frequently. Please pay close attention to commits to really understand what's happening. Please use the master branch unless you are brave or intentionally testing 'completed' functions to report bugs.
-
 # Heatmiser-for-home-assistant
 
 An integration for [Home Assistant](https://www.home-assistant.io/) to add support for [Heatmiser's Neo-Hub and 'Neo'](https://www.heatmiser.com/en/heatmiser-neo-overview/) range of products.
