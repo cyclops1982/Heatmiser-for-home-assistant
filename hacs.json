@@ -1,8 +1,6 @@
 {
     "name": "Heatmiser Neo Integration",
-    "filename": "Verison_1.6.zip",
     "iot_class": "Local Polling",
     "render_readme": true,
-    "hide_default_branch": true,
-    "zip_release": true
+    "hide_default_branch": true
 }
